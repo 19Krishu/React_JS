@@ -1,0 +1,40 @@
+nav{
+  background: rgba(1, 1, 1, 0.267);
+  height: 50px;
+  border: 2px solid black;
+}
+
+nav ul{
+  float: left;
+  list-style-type: none;
+}
+
+nav ul li{
+  display: inline-block;
+  padding: 10px;
+}
+.con{
+  background-color: blue;
+}
+.bg{
+  background-color: rgba(203, 206, 205, 0.728);
+}
+.cart1{
+  background-color: cyan;
+}
+.bsh{
+  box-shadow: 0px 0px 10px black;
+}
+.bg1{
+  background-color: rgba(231, 236, 234, 0.728);
+}
+.bsh1{
+  box-shadow: 0px 0px 10px black;
+}
+.cart{
+  background-color:blue;
+}
+.bg2{
+  background-color: cyan;
+}
+

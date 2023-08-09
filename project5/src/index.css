@@ -1,0 +1,12 @@
+h1{
+  color: pink;
+  font-style: Bold;
+}
+.bg{
+  color: pink;
+  border: solid;
+  border-bottom-right-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-top-left-radius: 20px;
+}

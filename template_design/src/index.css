@@ -1,0 +1,16 @@
+.cte{
+  border: 2px solid red;
+  width: 1250px;
+  height: 500px;
+  background-color: aquamarine;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.cot{
+  border: 2px solid blue;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  background-color: bisque;
+}

@@ -1,0 +1,31 @@
+.id{
+  margin-top: 80px;
+}
+.cd{
+  box-shadow: 0px 0px 3px black;
+}
+.bg{
+  background-color: lightseagreen;
+}
+.ig:hover{
+  transform: scale(1.32,1.17);
+}
+.cart1{
+  background-color: antiquewhite;
+  box-shadow: 0px 0px 70px black;
+}
+.br{
+  border: 2px solid black;
+  
+}
+.row1{
+  /* background-color: aquamarine; */
+  background-color: rgb(52, 193, 146 , 0.7);
+}
+.nav{
+  position: sticky;
+  top: 2px;
+}
+.rt{
+  float: right;
+}
